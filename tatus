@@ -1,0 +1,81 @@
+[33mcommit d9a6dab1ec97659391c3a6391b3c518f9a33de7b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mbranc3[m[33m)[m
+Merge: 7d027ef e5f93ea
+Author: prasad <satyafrnds409@gmail.com>
+Date:   Sun Dec 23 23:07:21 2018 +0530
+
+    Merge branch 'master' of https://github.com/satyanarayana61/gitpractise
+
+[33mcommit 7d027efeb806271665ae9af7f82d35220ddb70f0[m
+Merge: 20d62c5 95c1be1
+Author: satyanarayana61 <45210338+satyanarayana61@users.noreply.github.com>
+Date:   Sun Dec 23 13:23:14 2018 +0530
+
+    Merge pull request #2 from satyanarayana61/branch2
+    
+    brach2 version
+
+[33mcommit e5f93ea2913f23f3ff99fd4fef3ed7782d150df6[m
+Merge: 20d62c5 95c1be1
+Author: satyanarayana61 <45210338+satyanarayana61@users.noreply.github.com>
+Date:   Sun Dec 23 13:23:14 2018 +0530
+
+    Merge pull request #2 from satyanarayana61/branch2
+    
+    brach2 version
+
+[33mcommit 20d62c50af076f034f76f8b1cef20a66d478f9c5[m
+Author: satyanarayana61 <45210338+satyanarayana61@users.noreply.github.com>
+Date:   Sun Dec 23 13:21:28 2018 +0530
+
+    Add files via upload
+
+[33mcommit 7798c07fa86ecbf098e3e67bc515f640510e378e[m
+Merge: b246b8d 4e4d383
+Author: satyanarayana61 <45210338+satyanarayana61@users.noreply.github.com>
+Date:   Sun Dec 23 13:09:34 2018 +0530
+
+    Merge pull request #1 from satyanarayana61/branch1
+    
+    Create satya3.txt
+
+[33mcommit 4e4d3830bcc93c17bde9965e906009f2a3865760[m
+Author: satyanarayana61 <45210338+satyanarayana61@users.noreply.github.com>
+Date:   Sun Dec 23 13:08:22 2018 +0530
+
+    Create satya3.txt
+
+[33mcommit 95c1be1228f691c930d409579684641b509b8175[m[33m ([m[1;31morigin/branch2[m[33m, [m[1;32mbranch2[m[33m)[m
+Author: prasad <satyafrnds409@gmail.com>
+Date:   Sun Dec 23 13:05:09 2018 +0530
+
+    brach2 version
+
+[33mcommit b246b8d0b0ad91b69dd740f3cf2d84f7619b7eae[m[33m ([m[1;31morigin/branch1[m[33m, [m[1;32mbranch1[m[33m)[m
+Author: prasad <satyafrnds409@gmail.com>
+Date:   Sun Dec 23 12:51:19 2018 +0530
+
+    changeare are dine
+
+[33mcommit 07343c1668670b9a4acc32e8b509e3798c887cec[m
+Author: satyanarayana61 <45210338+satyanarayana61@users.noreply.github.com>
+Date:   Sun Dec 23 12:42:55 2018 +0530
+
+    Create satya2.txt
+
+[33mcommit dc3d66d79dd053f45d876ed7708308a345c0b02a[m
+Author: prasad <satyafrnds409@gmail.com>
+Date:   Sun Dec 23 12:22:35 2018 +0530
+
+    3rd version
+
+[33mcommit a15a026d0cd128e7af1490408a8d9233c0bae5e4[m
+Author: prasad <satyafrnds409@gmail.com>
+Date:   Sun Dec 23 12:17:17 2018 +0530
+
+    second version
+
+[33mcommit d161dbf929aa7d630af65ddf8613db596ade43da[m
+Author: prasad <satyafrnds409@gmail.com>
+Date:   Sun Dec 23 11:38:57 2018 +0530
+
+    first version
